@@ -1,0 +1,26 @@
+body {
+    font-family:verdana geneva arial helvetica sans-serif;
+    font-size: 90%;
+    color:#000;
+    margin:10px 0px 10px 0px;    
+}
+#pie{
+ text-align: left;
+ background: -webkit-radial-gradient(#ffffff,#b3b3b3);
+ background: -moz-radial-gradient(#ffffff, #b3b3b3);
+ background: -o-radial-gradient(#ffffff,#b3b3b3);
+ padding: 3px 1.25% 3px 1.25%;
+ clear:both;
+ color:#777777; 
+}    
+
+
+.tablisimp{      
+       margin:auto;
+       margin-top:7px;       
+       }      
+       
+.tablisimp thead th {
+       text-align: left;
+       }       
+  

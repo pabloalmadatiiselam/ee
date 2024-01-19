@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"ssql2"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"boton",
+				"botonbuscar"
+			],
+			[
+				"camp",
+				"campotexto"
+			],
+			[
+				"im",
+				"imprimir"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"conex",
+				"conexion1"
+			],
+			[
+				"cone",
+				"conexion2"
+			],
+			[
+				"bo",
+				"BODY"
+			],
+			[
+				"CL",
+				"clear"
+			],
+			[
+				"T",
+				"text-align"
+			],
+			[
+				"co",
+				"conexion1"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"F",
+				"float"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"FO",
+				"FOOTER	Tag"
+			],
+			[
+				"SE",
+				"SECTION	Tag"
+			],
+			[
+				"AR",
+				"ARTICLE	Tag"
+			],
+			[
+				"N",
+				"NAV	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pares-biomagnetismo.php",
+			"settings":
+			{
+				"buffer_size": 2632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mostrar-detalle.php",
+			"settings":
+			{
+				"buffer_size": 5427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "listaimp.php",
+			"settings":
+			{
+				"buffer_size": 2058,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mostrar-detalleimp.php",
+			"settings":
+			{
+				"buffer_size": 4831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "palabras.php",
+			"settings":
+			{
+				"buffer_size": 8002,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "claves.php",
+			"settings":
+			{
+				"buffer_size": 7410,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"LIST",
+				"Package Control: List Packages"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"prefi",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"Prefi",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 251.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/infylachtml5/mail.php",
+		"/C/wamp/www/infylachtml5/estilos/estilo.css",
+		"/C/wamp/www/infylac/poo2.php",
+		"/C/wamp/www/infylac/mostrar-desarrollo2.php",
+		"/C/wamp/www/infylac/contador_mejorado.txt~",
+		"/C/wamp/www/infylac/buscar.php",
+		"/C/wamp/www/infylac/programacion/manual de programacion.odt",
+		"/C/wamp/www/infylac/temas2.php",
+		"/C/wamp/www/infylac/mensaje.php",
+		"/C/wamp/www/infylac/desarrollo-adaptado2.php",
+		"/C/wamp/www/infylac/linux2.php",
+		"/C/wamp/www/infylac/linux.php",
+		"/C/wamp/www/infylac/index.php",
+		"/C/xampp/htdocs/infylac/mostrar-desarrollo.php",
+		"/C/xampp/htdocs/infylac/temas.php",
+		"/C/xampp/htdocs/infylac/linux.php",
+		"/C/xampp/htdocs/infylac/mensaje.php",
+		"/C/xampp/htdocs/infylac/poo.php",
+		"/C/xampp/htdocs/infylac/desarrollo-adaptado.php",
+		"/C/xampp/htdocs/infylac/index.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\infylachtml5\\imagenes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"   ",
+			"}\n",
+			"        <",
+			"                <a class=\"enlacenav\" href=\"index.html\">Inicio</a>\n",
+			"        a        < class=\"enlacenav\" href=\"index.html\">Inicio</a>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pares-biomagnetismo.php",
+					"settings":
+					{
+						"buffer_size": 2632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1403,
+								1444
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 696.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mostrar-detalle.php",
+					"settings":
+					{
+						"buffer_size": 5427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2564,
+								2564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 444.0,
+						"translation.y": 1218.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "listaimp.php",
+					"settings":
+					{
+						"buffer_size": 2058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1452,
+								1452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 829.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mostrar-detalleimp.php",
+					"settings":
+					{
+						"buffer_size": 4831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2056,
+								2056
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 290.0,
+						"translation.y": 2610.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "palabras.php",
+					"settings":
+					{
+						"buffer_size": 8002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4089,
+								4089
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2871.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "claves.php",
+					"settings":
+					{
+						"buffer_size": 7410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7168,
+								7168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 98.0,
+						"translation.y": 4350.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"m",
+				"mail.php"
+			],
+			[
+				"c",
+				"comentario.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"libr",
+				"libreria.php"
+			],
+			[
+				"",
+				"desarrollo-adaptado.php"
+			],
+			[
+				"i",
+				"index.php"
+			],
+			[
+				"es",
+				"estilos/estilo.css"
+			],
+			[
+				"ip",
+				"imagenes/pratica.xcf"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
